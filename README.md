@@ -14,7 +14,7 @@ This project includes a Chrome extension and a Flask server that displays the pr
 
 1. Clone this project to your local machine:
    ```bash
-   git clone https://github.com/username/stock-price-indicators.git
+   git clone https://github.com/eskarasu/stock-price-indicators-chrome-extension.git
    cd stock-price-indicators
 2. Install the required dependencies for the Flask server:
    pip install flask yfinance
