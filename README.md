@@ -1,4 +1,4 @@
-# Stock Price Indicators
+# Stock Price Indicators Chrome Extension
 
 This project includes a Chrome extension and a Flask server that displays the price of a specified stock symbol.
 
